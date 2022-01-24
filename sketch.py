@@ -1,6 +1,6 @@
 import cv2
 
-img=cv2.imread("ajs.jpeg")
+img=cv2.imread("bruno.jpeg")
 
 gray=cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
 
