@@ -1,1 +1,1 @@
-# Mini_py_project
+# Image to pencil sketch converter
